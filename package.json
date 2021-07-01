@@ -1,0 +1,24 @@
+{
+  "name": "wave",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikaBrandes/Wavehunter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikaBrandes/Wavehunter/issues"
+  },
+  "homepage": "https://github.com/VikaBrandes/Wavehunter#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongodb": "^3.6.9",
+    "three.js": "^0.77.1"
+  }
+}
